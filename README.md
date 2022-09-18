@@ -1,6 +1,4 @@
 
-https://raw.githubusercontent.com/ShubaShuba/Apuntes/blob/Primera-Parcial/udc.png
-
 
 
 # Facultad de ingenieria mecanica y electrica
