@@ -1,13 +1,9 @@
-# Apuntes
-Apuntes 3er Semestre ICI
+
+https://raw.githubusercontent.com/ShubaShuba/Apuntes/blob/Primera-Parcial/udc.png
 
 
-|Spanish|
 
-
-En este bloque se encuentran mis apuntes de codigos que he escrito en python. Proximamente habra mas...
-
-|English|
-
-
-in this section im going to upload my classnotes that i made in python. Coming soon more.... 
+# Facultad de ingenieria mecanica y electrica
+## Programacion Funcional
+### Braulio Yahir Gaitan Vargas 3°D
+#### Apuntes Realizados en clase 
