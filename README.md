@@ -1,5 +1,5 @@
 
-<img src="https://portal.ucol.mx/content/micrositios/188/image/Escudo2021/1_Linea/UdeC%20Abajo_Negro.png">
+<img src="https://portal.ucol.mx/content/micrositios/188/image/Escudo2021/1_Linea/UdeC%20Abajo_Blanco.png">
 
 <h1>Facultad de Ingeniería Mecánica y Eléctrica<h1>
 
